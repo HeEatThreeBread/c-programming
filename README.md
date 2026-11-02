@@ -5,7 +5,7 @@ My journey learning C programming, focusing on programming fundamentals and embe
 
 Topics Covered
 
-- [ ] Variables and data types
+- [x] Variables and data types
 - [ ] Operators
 - [ ] Conditional statements
 - [ ] Loops
